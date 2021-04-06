@@ -17,8 +17,8 @@ title: DR CARRIE BAKER
 email: cambspsychologist@btinternet.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chartered Clinical Psychologist
-twitter_username: username
-github_username: username
+twitter_username: # username
+github_username: # username
 minimal_mistakes_skin: default
 search: true
 
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Carrie Baker"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
