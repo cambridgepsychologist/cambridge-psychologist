@@ -3,10 +3,10 @@ main:
   - title: "Who is suitable?"
     url: /suitable/
   - title: "Assessment And Therapy"
-    url: "assessment-and-therapy"
+    url: "assessment-and-therapy.md"
   - title: "Rates"
     url: /rates/
   - title: "Rates"
     url: /rates/
   - title: "About"
-    url: /
+    url: /about/
