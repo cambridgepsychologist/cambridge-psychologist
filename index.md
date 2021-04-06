@@ -1,6 +1,5 @@
 ---
 layout: home
-title: About
 ---
 My name is Carrie Baker, and I am an experienced Clinical Psychologist working in private practice in Cambridge.
 
