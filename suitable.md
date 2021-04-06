@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 Psychological therapy can be helpful for a wide range of difficulties, including
 
 * Depression
