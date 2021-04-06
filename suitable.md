@@ -1,5 +1,5 @@
 ---
-layout: single
+title: Who is suitable?
 ---
 
 Psychological therapy can be helpful for a wide range of difficulties, including
