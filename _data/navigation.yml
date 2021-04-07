@@ -6,5 +6,7 @@ main:
     url: "/assessment-and-therapy/"
   - title: "Rates"
     url: /rates/
+  - title: "Contact"
+    url: /contact/
   - title: "About"
     url: /about/
