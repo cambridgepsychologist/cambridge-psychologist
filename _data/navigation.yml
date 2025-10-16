@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Who is suitable?"
-    url: /suitable/
-  - title: "Assessment And Therapy"
-    url: "/assessment-and-therapy/"
-  - title: "Rates"
-    url: /rates/
-  - title: "Contact"
-    url: /contact/
   - title: "About"
     url: /about/
+  - title: "What to Expect"
+    url: "/assessment-and-therapy/"
+  - title: "Who is suitable?"
+    url: /suitable/
+  - title: "Rates"
+    url: /rates/
+  - title: "Confidentiality"
+    url: /confidentiality/
+  - title: "Contact"
+    url: /contact/

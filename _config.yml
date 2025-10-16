@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DR CARRIE BAKER
+title: HOME
 email: cambspsychologist@btinternet.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chartered Clinical Psychologist
@@ -54,22 +54,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carrie Baker"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Dr. Carrie Baker"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Chartered Clinical Psychologist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cambspsychologist@btinternet.com"
 
 defaults:
   # _posts
