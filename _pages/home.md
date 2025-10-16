@@ -1,8 +1,11 @@
 ---
-title: "🌿 Home"
-layout: single
-classes: wide
+title: "🌿 Dr. Carrie Baker"
+layout: splash
 permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/splash-image.jpg
 ---
 
 I'm Dr Carrie Baker, a Chartered Clinical Psychologist with over 25 years of experience, offering compassionate, evidence-based therapy from my private practice in Cambridge.
