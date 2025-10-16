@@ -1,5 +1,5 @@
 ---
-title: "🌿 Dr. Carrie Baker"
+title: "Dr. Carrie Baker"
 layout: splash
 permalink: /
 header:
