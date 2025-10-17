@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Chartered Clinical Psychologist
 minimal_mistakes_skin: air
 logo: "/assets/images/logo.png"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
