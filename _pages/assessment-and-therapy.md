@@ -33,7 +33,7 @@ psychological well-being.</p>
 <h2>Therapy</h2>
 
 <p>Therapy sessions are typically held weekly, either in person at 
-[11b King's Parade, Cambridge](https://www.cambridgetherapycollective.com/our-collective/dr-carrie-baker)
+<a href="https://www.cambridgetherapycollective.com/our-collective/dr-carrie-baker">11b King's Parade, Cambridge</a>
 or online. Each session lasts for one hour.</p>
 
 <p>Most people attend between six and thirty sessions, although this varies depending on individual needs. We will have 
