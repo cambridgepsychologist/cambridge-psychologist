@@ -6,12 +6,11 @@ permalink: /
 ---
 
 <table>
-
-<tr>
-  <td style="vertical-align: top;">
-    <img src="{{ site.baseurl }}/assets/images/splash-image.png" />
-  </td>
-  <td style="vertical-align: top;">
+    <tr>
+      <td style="vertical-align: top; border-bottom: 0px;">
+        <img src="{{ site.baseurl }}/assets/images/splash-image.png" />
+      </td>
+      <td style="vertical-align: top; border-bottom: 0px;">
 
 I am a Chartered Clinical Psychologist with over 25 years of experience, offering compassionate,
 evidence-based therapy from my private practice in Cambridge. <br><br>

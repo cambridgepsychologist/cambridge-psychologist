@@ -7,11 +7,11 @@ permalink: /suitable/
 
 <table>
     <tr>
-        <td style="vertical-align: top; width:20%">
+        <td style="vertical-align: top; width:20%; border-bottom: 0px;">
             <img src="{{ site.baseurl }}/assets/images/bio-photo.png" />
         </td>
 
-        <td style="vertical-align: top;">
+        <td style="vertical-align: top; border-bottom: 0px;">
 
             <h1>Who is suitable?</h1>
 
