@@ -9,7 +9,7 @@ permalink: /
 
 <tr>
   <td style="vertical-align: top;">
-    <image src="/assets/images/splash-image.png" />
+    <img src="{{ site.baseurl }}/assets/images/splash-image.png" />
   </td>
   <td style="vertical-align: top;">
 
