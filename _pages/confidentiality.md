@@ -1,5 +1,5 @@
 ---
-title: "🌳 Confidentiality, Data Protection & Professional Practice"
+title: "Confidentiality, Data Protection & Professional Practice"
 layout: single
 classes: wide
 permalink: /confidentiality/

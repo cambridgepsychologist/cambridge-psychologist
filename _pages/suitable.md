@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🌻  Who is suitable?"
+title: "Who is suitable?"
 classes: wide
 permalink: /suitable/
 ---
